@@ -1,1 +1,11 @@
-Readme
+# Content
+
+Contains information about learning window objects.
+
+## Usage
+
+```javascript
+alert('Hello')                         // return an alert 'Hello'
+let b = prompt('Write a number')       // Receives data from the user
+let val = confirm('Are you sure?')     // Ask question for user (True or False)
+```
