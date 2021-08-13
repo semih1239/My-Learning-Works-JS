@@ -1,7 +1,5 @@
 // Scopes
 
-
-
 // ** Global Scopes
 let name = 'Semih'
 let age = 30
@@ -18,11 +16,6 @@ if (true){
 
 logName()
 console.log(name)
-
-
-
-
-
 
 
 // ** Local Scopes
